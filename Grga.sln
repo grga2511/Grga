@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grga", "Grga\Grga.vcxproj", "{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Debug|x64.ActiveCfg = Debug|x64
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Debug|x64.Build.0 = Debug|x64
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Debug|x86.Build.0 = Debug|Win32
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Release|x64.ActiveCfg = Release|x64
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Release|x64.Build.0 = Release|x64
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Release|x86.ActiveCfg = Release|Win32
+		{39E81BA4-CF45-4FA1-B8ED-2F4C5C10B8AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E6B22B4-D00E-4B25-83C6-C22B222C40AB}
+	EndGlobalSection
+EndGlobal
